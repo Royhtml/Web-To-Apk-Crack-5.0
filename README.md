@@ -26,7 +26,7 @@
 
 📺 **Tonton tutorial lengkap:**
 
-[![Web to APK Builder - UI Tutorial](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<a href = "https://www.tiktok.com/@royhtml/video/7507841528899849478?is_from_webapp=1&sender_device=pc&web_id=7489705398321759751"><img src = "https://i.ytimg.com/vi/K7OKoPMszXI/maxresdefault.jpg"></a>
 
 > ⚠️ Ganti `VIDEO_ID` dengan ID video asli YouTube Anda.
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 📱 Contoh Aplikasi yang Dibuat
+## 📱 Contoh Aplikasi yang Dibuat ole seorang cracker
 
 | Nama Aplikasi  | URL Asli                                         | Tangkapan Layar                          |
 | -------------- | ------------------------------------------------ | ---------------------------------------- |
