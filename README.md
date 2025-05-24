@@ -76,9 +76,9 @@
 
 | Nama Aplikasi  | URL Asli                                         | Tangkapan Layar                          |
 | -------------- | ------------------------------------------------ | ---------------------------------------- |
-| Jadwal Profesional  | [Cclick](https://jadwal-profesional.vercel.app/) | <img src ="Screenshot 2025-05-24 103019.png" width = "200px" height= "400px">    |
-| Bruno Ai    | [click](https://dwibakti.netlify.app/) | <img src ="Screenshot 2025-05-24 102918.png" width ="200px" height ="400px">      |
-| Portfolio  | [click](https://profiledwibaktindev.netlify.app/)               | <img src ="Screenshot 2025-05-24 102746.png" width = "200px" height="400px"> |
+| Jadwal Profesional  | [Cclick](https://jadwal-profesional.vercel.app/) | <img src ="Screenshot 2025-05-24 103019.png" width = "400px" height= "200px">    |
+| Bruno Ai    | [click](https://dwibakti.netlify.app/) | <img src ="Screenshot 2025-05-24 102918.png" width ="400px" height ="200px">      |
+| Portfolio  | [click](https://profiledwibaktindev.netlify.app/)               | <img src ="Screenshot 2025-05-24 102746.png" width = "400px" height="200px"> |
 
 ---
 
