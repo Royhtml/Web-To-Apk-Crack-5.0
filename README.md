@@ -76,9 +76,9 @@
 
 | Nama Aplikasi  | URL Asli                                         | Tangkapan Layar                          |
 | -------------- | ------------------------------------------------ | ---------------------------------------- |
-| Jadwal Profesional  | [https://beritakita.com](https://jadwal-profesional.vercel.app/) | ![Screenshot](screenshots/berita.png)    |
-| Bruno Ai    | [https://tokokita.store](https://dwibakti.netlify.app/) | ![Screenshot](screenshots/toko.png)      |
-| Portfolio  | [https://dwi.dev](https://profiledwibaktindev.netlify.app/)               | ![Screenshot](screenshots/portfolio.png) |
+| Jadwal Profesional  | [Cclick](https://jadwal-profesional.vercel.app/) | ![Screenshot](Screenshot 2025-05-24 103019.png)    |
+| Bruno Ai    | [click](https://dwibakti.netlify.app/) | ![Screenshot](Screenshot 2025-05-24 102918.png)      |
+| Portfolio  | [click](https://profiledwibaktindev.netlify.app/)               | ![Screenshot](Screenshot 2025-05-24 102746.png) |
 
 ---
 
